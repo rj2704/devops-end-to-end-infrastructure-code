@@ -1,1 +1,1 @@
-# devops-end-to-end-project
+# devops-end-to-end-infrastructure-code
